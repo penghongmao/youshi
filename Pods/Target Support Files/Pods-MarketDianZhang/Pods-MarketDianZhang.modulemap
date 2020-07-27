@@ -1,0 +1,6 @@
+framework module Pods_MarketDianZhang {
+  umbrella header "Pods-MarketDianZhang-umbrella.h"
+
+  export *
+  module * { export * }
+}
