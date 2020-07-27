@@ -13,7 +13,10 @@
 @end
 
 @implementation SourceTreeTest1VC
-
+-(void)tongyigewenjian
+{
+    NSLog(@"maohongpeng");
+}
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSString *dapeng = @"我是 毛宏鹏";
