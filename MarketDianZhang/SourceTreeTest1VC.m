@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSString *yettechName = @"wo shi yettech";
+    NSString *dapeng = @"我是 毛宏鹏";
 }
 
 /*
