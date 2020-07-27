@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSString *dapeng = @"我是 毛宏鹏";
+    
+    NSString *fangqi = @"请放弃我";
+
 }
 
 /*
