@@ -23,7 +23,10 @@
     NSString *baoliu = @"请保留我";
 
 }
-
+- (void)butongdedifang
+{
+    NSLog(@"yettech");
+}
 /*
 #pragma mark - Navigation
 
