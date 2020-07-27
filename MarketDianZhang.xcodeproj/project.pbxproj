@@ -174,6 +174,7 @@
 		CC0BADD422213A3200881787 /* kaijiqidong.png in Resources */ = {isa = PBXBuildFile; fileRef = CC0BADD322213A3200881787 /* kaijiqidong.png */; };
 		D624733A2334715000B660ED /* SFBMUIWebViewVC.m in Sources */ = {isa = PBXBuildFile; fileRef = D62473392334715000B660ED /* SFBMUIWebViewVC.m */; };
 		D64082BD229E7331009679FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64082BC229E7331009679FC /* Main.storyboard */; };
+		D66F6B8924CF22CD00060B67 /* SourceTreeTest1VC.m in Sources */ = {isa = PBXBuildFile; fileRef = D66F6B8824CF22CD00060B67 /* SourceTreeTest1VC.m */; };
 		D6D62C79229E57B400372EBB /* GLaunchManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D6D62C78229E57B400372EBB /* GLaunchManager.m */; };
 /* End PBXBuildFile section */
 
@@ -506,6 +507,8 @@
 		D62473382334715000B660ED /* SFBMUIWebViewVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SFBMUIWebViewVC.h; sourceTree = "<group>"; };
 		D62473392334715000B660ED /* SFBMUIWebViewVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SFBMUIWebViewVC.m; sourceTree = "<group>"; };
 		D64082BC229E7331009679FC /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		D66F6B8724CF22CD00060B67 /* SourceTreeTest1VC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceTreeTest1VC.h; sourceTree = "<group>"; };
+		D66F6B8824CF22CD00060B67 /* SourceTreeTest1VC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SourceTreeTest1VC.m; sourceTree = "<group>"; };
 		D6D62C77229E57B400372EBB /* GLaunchManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLaunchManager.h; sourceTree = "<group>"; };
 		D6D62C78229E57B400372EBB /* GLaunchManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLaunchManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1263,6 +1266,8 @@
 				09D3074F1FD6758A008A6FE7 /* Info.plist */,
 				09D307501FD6758A008A6FE7 /* main.m */,
 				09D307471FD6758A008A6FE7 /* MarketDianZhang.xcdatamodeld */,
+				D66F6B8724CF22CD00060B67 /* SourceTreeTest1VC.h */,
+				D66F6B8824CF22CD00060B67 /* SourceTreeTest1VC.m */,
 			);
 			path = MarketDianZhang;
 			sourceTree = "<group>";
@@ -1608,6 +1613,7 @@
 				09C4FBFA1FD7F028008FA99B /* SFBMUserBaseInfoModel.m in Sources */,
 				09C4FBED1FD6D413008FA99B /* ScanningViewController.m in Sources */,
 				09C20FBB2105ABC200FE41DD /* LeftViewController.m in Sources */,
+				D66F6B8924CF22CD00060B67 /* SourceTreeTest1VC.m in Sources */,
 				09C20FC42105AC2C00FE41DD /* CWTableViewCell.m in Sources */,
 				0920E1041FFCC4F20001C399 /* CWAudioPlayView.m in Sources */,
 				09E4A0E62014993A006E0126 /* WPFPerson.m in Sources */,
